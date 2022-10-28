@@ -24,6 +24,13 @@ My conclusions are that 00 flour is the best but all the others kind of work too
 |:--:|
 | Yoda says: not the brand, is important, but the double zeros |
 
+## Other ingrediends
+
+I had excellent results with:
+
+* Kirkland organic tomato sauce
+* Trader Joe's Mozzarella log
+
 ## Items needed
 
 * Bowls, so many bowls, of all sizes
