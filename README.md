@@ -4,13 +4,13 @@ My set of recipes. I started with pizza but then eventually I will put all of th
 
 I am collecting them here mostly to share them with friends and family.
 
+## The actual recipe(s)
+
+* [Pizza](docs/bestpizza.md)
+
 ## How it is organized
 
 I am going to put all the markdown documentation in the `docs` folder for now.
-
-## poetry
-
-I am using poetry for dependency management. Maybe overkill, but I like it.
 
 ## License
 
