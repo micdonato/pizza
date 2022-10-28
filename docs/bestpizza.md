@@ -8,7 +8,7 @@ description: Recipe for the best pizza dough ever
 
 Refer to this picture for list of ingredients except for the yeast: this original recipe calls for 24hrs rise, but here I do about 3 total. Therefore I use 3.5 grams (half a packet) if I do less than 4 pizzas, and 7 grams if I do 4 to 6 pizzas.
 
-| ![ingredients](assets/ingredients.jpeg) |
+| ![ingredients](.gitbook/assets/ingredients.jpeg) |
 |:--:|
 | Ingredients and quantities. Yes, it is in Italian. |
 
