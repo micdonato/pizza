@@ -20,14 +20,18 @@ This is the flour I use, but I tried:
 
 My conclusions are that 00 flour is the best but all the others kind of work too
 
+| ![ingredients](assets/flour.jpeg) |
+|:--:|
+| Yoda says: not the brand, is important, but the double zeros |
+
 ## Items needed
 
 * Bowls, so many bowls, of all sizes
 * Pizza stone for best results, but an upside down metal pan works too (not as well, but still, pizza)
-* A kitchen scale.
+* A kitchen scale AND measuring cups. I did a horrible job at keeping it consistent
 * A bunch of kitchen towels
-* A large pan, as large as you want your pizza to be
-* Best if you have a pizza peel and an infrared thermometer.
+* A large kitchen pan to use on the stove, as large as you want your pizza to be. This is for the combo method
+* Best if you have a pizza peel and an infrared thermometer
 
 ## Protocol
 
@@ -60,3 +64,22 @@ This heavily draws from [The Combo Method by Gigio Attanasio](https://www.youtub
 His recipe involves rising the dough for 18 hours in the fridge and 5 hours outside. That is the RIGHT way to do it. If you want to try that, you will have to put the individual balls in the fridge (in containers) and take them out long before you want to cook them.
 
 ## Reference pictures:
+
+| ![windowpane](assets/windowpane.jpeg) |
+|:--:|
+| Windowpane test on a 70/30 white flour/whole wheat flour dough. It does not look optimal because I am taking the picture with one hand and trying to create a windowpane with the other hand. This is about 900 grams of dough pulling from the bottom, and the dough is so strong that it didn’t break (brag).|
+
+￼
+Poke/fold steps. From left to right, top to bottom: 
+
+* dough after 20’:
+* example of poke/fold:
+* ball
+
+| ![pokefold](assets/pokefold.png) |
+|:--:|
+| Poke/fold steps. From left to right, top to bottom: dough after 20’, example of poke/fold, ball: look at the bubbles on the ball: we want bubbles, bubbles are great. |
+
+
+￼
+
