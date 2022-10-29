@@ -24,14 +24,14 @@ My conclusions are that 00 flour is the best but all the others kind of work too
 |:--:|
 | Yoda says: not the brand, is important, but the double zeros |
 
-## Other ingrediends
+### Other ingrediends
 
 I had excellent results with:
 
 * Kirkland organic tomato sauce
 * Trader Joe's Mozzarella log
 
-## Items needed
+## Items I use
 
 * Bowls, so many bowls, of all sizes
 * Pizza stone for best results, but an upside down metal pan works too (not as well, but still, pizza)
@@ -70,7 +70,8 @@ Put the ball containers to rest in T30CP until they rise again. Usually it takes
 Thi is the traditional way to do it. I noticed that the resulting pizza is much lighter and tastes less like yeast like this. 
 Put the ball containers in the fridge for 18 hours. After that, take them out of the fridge and put them in T30CP for 5 hours. Have faith and patience
 
-## Cooking the pizzas
+## Cooking it
+
 I strongly recommend the [the Combo Method by Gigio Attanasio](https://www.youtube.com/watch?v=oGYadIZmloA). He also has great suggestions on how to stretch the dough with, guess what, a bowl (at 1:46). I owe this guy my mental health during the pandemic.
 
 1. Take the balls out of the oven, put the containers on a non-stone surface (cutting board or a few kitchen towels to insulate the container from a cold stone), cover them with kitchen towels or even a bathroom towel (clean please) and heat up the oven, with the stone in, at 420F. Important: the stone needs to be as close to the heating element as possible. Use the highest rack in your oven (as long as there is space for the pizza)
