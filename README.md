@@ -7,7 +7,7 @@ I am collecting them here mostly to share them with friends and family.
 ## The actual recipe(s)
 
 * [Pizza](docs/bestpizza.md)
-* [Broccoli rabe orecchiette (or any pasta really](docs/rabepasta.md)
+* [Broccoli rabe orecchiette (or any pasta really)](docs/rabepasta.md)
 
 ## How it is organized
 
