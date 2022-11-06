@@ -107,5 +107,3 @@ Poke/fold steps. From left to right, top to bottom:
 | Poke/fold steps. From left to right, top to bottom: dough after 20’, example of poke/fold, ball: look at the bubbles on the ball: we want bubbles, bubbles are great. |
 
 
-￼
-
