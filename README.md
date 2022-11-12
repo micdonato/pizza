@@ -6,6 +6,8 @@ I am collecting them here mostly to share them with friends and family.
 
 Mind that I am not a cook, so I am sure that there are many unprofessional things I do in every recipe. I am open to suggestions, just [create an issue](https://github.com/micdonato/pizza/issues) and we can chat about it (same for questions about a particular recipe).
 
+Also, if you have a github account you can "watch" this repository so you can be notified when I add new recipes.
+
 ## The actual recipe(s)
 
 * [Pizza](docs/bestpizza.md)
