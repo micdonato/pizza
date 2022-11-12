@@ -12,6 +12,7 @@ Mind that I am not a cook, so I am sure that there are many unprofessional thing
 * [Broccoli rabe orecchiette (or any pasta really)](docs/rabepasta.md)
 * [Pasta almost alla Norma](docs/pastanorma.md)
 * [Impossible ragu](docs/impossibleragu.md)
+* [Chickpea stew](docs/pastaececi.md)
 
 ## How it is organized
 
