@@ -23,6 +23,7 @@ In some cases I will suggest some optional changes that might please meat lovers
 * [Pasta almost alla Norma](docs/pastanorma.md)
 * [Impossible ragu](docs/impossibleragu.md)
 * [Chickpea stew](docs/pastaececi.md)
+* [Mushroom lasagna (experimental)](docs/mushroom_lasagna.md)
 
 ## How it is organized
 
