@@ -51,6 +51,10 @@ This is the final result. I liked them, but I don't quite like the green look of
 * 1/4 tsp black pepper
 * Breadcrumbs, for emergencies
 
+### Pasta
+
+* 1.5 lbs lasagna sheets (dry pasta). I will update with quantities for fresh pasta, eventually
+
 ## Protocol
 
 ### Bechamel sauce
