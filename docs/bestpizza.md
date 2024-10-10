@@ -12,6 +12,9 @@ Refer to this picture for list of ingredients except for the yeast: this origina
 |:--:|
 | Ingredients and quantities. Yes, it is in Italian. |
 
+Note: These make small-ish, 220g pizzas. I prefer to make 280g ones, so I use the "5 persone" (5 people) quantity for 4 pizzas.
+
+
 This is the flour I use, but I tried:
 
 * all purpose
